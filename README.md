@@ -4,4 +4,3 @@
 
 ### 👨‍💻 About This Project
 This is my first project, which involves creating a dashboard for YouTube. The results of this dashboard can be used for analysis and decision making.
-
