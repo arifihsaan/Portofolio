@@ -30,7 +30,7 @@ def format_with_commas(number):
 st.title("Welcome to Youtube Channel Dashboard")
 
 logo_icon = 'images/streamlit-mark-color.png'
-logo_image = 'images/youtube.new.png'
+logo_image = 'images/youtube.new.png' 
 st.logo(icon_image=logo_icon, image=logo_image)
 
 with st.sidebar:
